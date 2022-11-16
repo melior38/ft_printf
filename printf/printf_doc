@@ -1,0 +1,43 @@
+il faut gerer 9 flag pour le printf no bonus:
+
+• %c Affiche un seul caractère. ---> putchar
+
+
+
+
+• %s Affiche une chaîne de caractères (telle que définie par la convention C). ---> OK!
+
+
+
+
+• %p L’argument de pointeur void * doit être affiché en hexadécimal. ---> ?
+
+
+
+
+• %d Affiche un nombre décimal (base 10). ---> putnbr OK!
+
+
+
+
+• %i Affiche un entier en base 10. ---> (putnbr ?) OK!
+
+
+
+
+• %u Affiche un nombre décimal non signé (base 10). ---> (putnbr en no negatif ?) OK!
+
+
+
+
+• %x Affiche un nombre en hexadécimal (base 16) avec des lettres minuscules. ---> ? NOP!
+
+
+
+
+• %X Affiche un nombre en hexadécimal (base 16) avec des lettres majuscules. ---> ? NOP!
+
+
+
+
+• %% Affiche un signe pourcentage. --->  OK!
